@@ -1,0 +1,11 @@
+C:\Users\22200552\Source\Repos\aula6at6\aula6at6\bin\Debug\aula6at6.exe.config
+C:\Users\22200552\Source\Repos\aula6at6\aula6at6\bin\Debug\aula6at6.exe
+C:\Users\22200552\Source\Repos\aula6at6\aula6at6\bin\Debug\aula6at6.pdb
+C:\Users\22200552\Source\Repos\aula6at6\aula6at6\obj\Debug\aula6at6.csproj.AssemblyReference.cache
+C:\Users\22200552\Source\Repos\aula6at6\aula6at6\obj\Debug\aula6at6.csproj.SuggestedBindingRedirects.cache
+C:\Users\22200552\Source\Repos\aula6at6\aula6at6\obj\Debug\aula6at6.Form1.resources
+C:\Users\22200552\Source\Repos\aula6at6\aula6at6\obj\Debug\aula6at6.Properties.Resources.resources
+C:\Users\22200552\Source\Repos\aula6at6\aula6at6\obj\Debug\aula6at6.csproj.GenerateResource.cache
+C:\Users\22200552\Source\Repos\aula6at6\aula6at6\obj\Debug\aula6at6.csproj.CoreCompileInputs.cache
+C:\Users\22200552\Source\Repos\aula6at6\aula6at6\obj\Debug\aula6at6.exe
+C:\Users\22200552\Source\Repos\aula6at6\aula6at6\obj\Debug\aula6at6.pdb
